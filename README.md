@@ -9,9 +9,9 @@ Eg: !scan 0.0.0.0 25565 29999
 
 # Notes
 
-The csv file saver is broken :)
+To be able to save to the csv file you have to run the script in administrator
 
-The code is extremly buggy :)
+The Whitelist thing is broken.
 
 It's only use is to find minecraft servers
 
