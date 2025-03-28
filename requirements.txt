@@ -1,1 +1,1 @@
-pip install asyncio discord.py mcstatus requests csv logging socket re os
+pip install asyncio discord.py mcstatus requests logging socket re os
