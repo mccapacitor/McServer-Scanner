@@ -3,8 +3,8 @@ Free simple minecraft server scanner
 
 # Commands
 
-!scan <IP> <MinimumPort> <maximumPort>
- Eg: !scan 0.0.0.0 25565 29999
+!scan IP MinimumPort maximumPort
+Eg: !scan 0.0.0.0 25565 29999
 
 # Notes
 
